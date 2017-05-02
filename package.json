@@ -21,6 +21,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "level": "^1.6.0",
+    "level-party": "^3.0.4",
     "leveldb-naive-bayes": "^1.0.0",
     "talisman": "^0.19.0",
     "talkify-classifier": "^1.0.2"
