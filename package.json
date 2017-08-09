@@ -1,6 +1,6 @@
 {
   "name": "talkify-leveldb-bayes-classifier",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Open Source Bayes with levelDB classifier for Talkify",
   "main": "index.js",
   "keywords": [
